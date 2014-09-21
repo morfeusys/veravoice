@@ -14,6 +14,8 @@ veravoice
 
 ## Сборка
 Для сборки apk используйте gradle :app:assembleDebug
+  
+[Скачать apk можно здесь](https://github.com/Morfeusys/veravoice/releases)
 
 ## Запуск и работа
 Перед запуском в веб-консоли Vera задайте каждому устройству типа Switch, Dimmer и Thermostat название на русском языке.
